@@ -10,10 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/shiiyan/my_module_number_one.git"
   },
-  "author": "",
+  "author": "shiiyan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shiiyan/my_module_number_one/issues"
   },
-  "homepage": "https://github.com/shiiyan/my_module_number_one#readme"
+  "homepage": "https://github.com/shiiyan/my_module_number_one#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2",
+    "how-to-npm": "^2.5.1",
+    "learnyounode": "^4.2.2"
+  }
 }
