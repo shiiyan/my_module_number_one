@@ -1,6 +1,6 @@
 {
   "name": "my_module_number_one",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this is my first module",
   "main": "index.js",
   "scripts": {
